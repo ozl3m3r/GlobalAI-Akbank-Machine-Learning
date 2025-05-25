@@ -28,9 +28,9 @@ Aşağıda modellerin test verisinde gösterdiği performans karşılaştırmala
 
 | Model         | Accuracy | Recall | F1 Score |
 |---------------|----------|--------|----------|
-| Random Forest | 0.85     | 0.78   | 0.81     |
-| XGBoost       | 0.86     | 0.80   | 0.83     |
-| LightGBM      | 0.87     | 0.82   | 0.84     |
+| Random Forest | 0.83     | 0.56   | 0.35     |
+| XGBoost       | 0.75     | 0.76   | 0.35     |
+| LightGBM      | 0.74     | 0.79   | 0.34    |
 
 > ⚠️ Not: Recall değerine özellikle odaklanılmıştır çünkü kalp hastalığı gibi kritik bir durumda **pozitif sınıfın (hastalığın) doğru yakalanması** hayati öneme sahiptir.
 
