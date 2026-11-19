@@ -92,7 +92,6 @@ Potential directions for further development include:
 ## Project Links
 
 - **GitHub Repository:** [GlobalAI-Akbank-Machine-Learning](https://github.com/ozl3m3r/GlobalAI-Akbank-Machine-Learning)
-- **Kaggle Notebook:** [Akbank Machine Learning Bootcamp](https://www.kaggle.com/code/ozl3m3r/akbank-machine-learning-bootcamp)
 
 ## Disclaimer
 
